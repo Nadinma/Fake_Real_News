@@ -1,1 +1,1 @@
-# Fake_Real_News
+High level description of project: For the last few years we noticed a growth of yellow journalism due to technology development and social media usage. Fake news encapsulates news that may be hoaxes and usually spread through social media. Usually the main reason is to further spread or impose certain ideas. Such news containing false or claims end up being vitalused by algorithms.
